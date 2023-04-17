@@ -1,7 +1,7 @@
-# Sistema Simples de Gerenciamento de Comércio
+# Sistema Simples de Gerenciamento de Comércio  :computer:
 
 Esse é um sistema de gerenciamento para comércios, implementado em Python. O programa tem como objetivo gerenciar a entrada e saída de clientes, o controle de estoque e o gerenciamento de funcionários, gerentes e fornecedores.
-## Como utilizar
+## Como utilizar :man_teacher:
 
 O programa é implementado por meio de classes e métodos em Python. Para utilizar o sistema, deve-se executar o arquivo 
 
@@ -23,7 +23,6 @@ Esse programa não possui dependências externas.
 
 - As operações de cadastro, alteração e exclusão de itens são realizadas por meio de métodos específicos de cada classe.
 
-
-Esse sistema foi desenvolvido como projeto final para a disciplina de Programação Orientada a Objetos I. 
+Esse sistema foi desenvolvido como projeto final para a disciplina de Programação Orientada a Objetos I. :student: 
 
 Obs: O diagrama de todo o sistema está na pasta *diagrama*.
